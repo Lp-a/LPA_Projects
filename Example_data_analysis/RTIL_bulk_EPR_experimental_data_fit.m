@@ -1,6 +1,6 @@
 
 % Load experimental data
-[B_exp, spc_exp] = eprload('C:\Users\lpa3\Box\Backlund lab shared\data\Lakshmy\Bulk EPR\2025Dec5\TEMPOL_in_hmim_avg_10_Dec5.DTA');
+[B_exp, spc_exp] = eprload('filename.DTA');
 % Normalize experimental data (makes fitting easier)
 spc_exp = spc_exp / max(abs(spc_exp));
 % Convert B_exp from Gauss (G) to milliTesla (mT) since EasySpin works in mT
