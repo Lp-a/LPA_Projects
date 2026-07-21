@@ -1,17 +1,7 @@
 close all
 clear
 
-%path  = 'C:\Users\lpa3\Box\Backlund lab shared\data\Lakshmy\2026\March\3rd\single in MEA new magnet position\2026_March3_xy2_NV2_DEER_T1_sushkov_xyy_pi_xyy_1pulse\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\Lakshmy\2026\March\10th\2026_March10_xy8_NV1_DEER_T1_sushkov_1_pulse/';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\Lakshmy\2026\March\10th\xy4_NV1_DEER_T1_xyy_pi_xyy_xyy_xyy_1_pulse\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\Lakshmy\2026\March\9th\singles in MEA\2026_March9_xy5_NV1_DEER_T1_xyy_pi_xyy__xyy_xyy_1_pulse\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\Lakshmy\2026\April\4th\2026_April4_xy1_NV1_40mW_DEER_T1_sushkov_with_noise_0dbm_2p5Vpp\';
-
-%path  = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2026_April7_xy2_NV1_DEER_T1_sushkov_noise_neg5dbm_2p5Vpp\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2026_April6_xy4_NV1_DEER_T1_sushkov_noise\';
-%path =  'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2026_April3_xy3_NV1_DEER_T1_sushkov_with_noise_neg5dbm\';
-path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2026_April3_xy3_NV1_DEER_T1_sushkov_with_noise\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2026_April5_xy1_NV1_DEER_T1_sushkov_with_noise\';
+%path = 'file_path\';
 
 %nits  = 37 ;
 %nits  = 55;
