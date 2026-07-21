@@ -1,15 +1,6 @@
 
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_April16_xy1_after488_in_mea\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_April3_xy1_DEER_MEA_after488_trail2\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_March12_DEER_after488_MEA50mM\';
-path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_May14_xy3_NV1_DEER_after488_20mW_no_OD_dye_inPMMA_with_RF_in_MEA\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_March12_DEER_after488_MEA50mM\';
-%path ='C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_May15_xy2_single_NV_after488_20mW_no_OD_DEER_in_MEA_with_RF_on\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\20250616 functionalized diamond\r6NV2 DEER Rabi 655 MHz -4p2 dBm after 488 overnight\';
-%path ='C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_May15_xy2_single_NV_after488_20mW_no_OD_DEER_in_MEA_with_RF_on\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\20250617 functionalized diamond\rA1NV1 DEER Rabi 655 MHz -4p2 dBm after 488 no OD 1 min\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\20250617 functionalized diamond\rC1NV1 DEER Rabi 655 MHz -4p2 dBm after 488 OD 2 1 min\';
-%path = 'C:\Users\lpa3\Box\Backlund lab shared\data\ExperimentEditor Data\2025_April1_xy1_NV1_DEER_after488\';
+
+%path = 'filepath\';
 
 
 file = 'Iteration_336';%530, 'Iteration_171'
